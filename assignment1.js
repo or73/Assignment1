@@ -1,3 +1,5 @@
+'use strict';
+
 // yargs library
 const argv = require('yargs').argv;
 // fs library
