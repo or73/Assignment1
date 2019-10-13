@@ -50,7 +50,7 @@ sudo npm install -g pm2```
 pm2 start assignment2.js```   
 3. Install **NGINX**
 4. Modify **NGINX** configuration file (`nginx.conf`), add path of running application over **PM2**:  
-```json 
+``` 
 server {
 listen      8082;
 server_name localhost;
